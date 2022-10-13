@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*
- * main - entry point
+ * main - Entry point
+ * Description: Main is void
 
  * return: Always 0 (Success)
 
