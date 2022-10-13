@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<unistd.h>
 /**
  * main - ntry point
  * Description: code starting point
