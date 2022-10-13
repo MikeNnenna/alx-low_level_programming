@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
+ * main - starting point of program
  * Description: main -Prints out a string to stdout
- * return: 0 if success
+ * Return: 0 if success
  */
 int main(void)
 {
