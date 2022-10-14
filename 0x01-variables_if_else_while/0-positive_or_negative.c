@@ -3,9 +3,7 @@
 #include <time.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
-
-/* main - entry point of code*/
+/* main - Entry point of code*/
 
 /* Description: main - starting point of code */
 
