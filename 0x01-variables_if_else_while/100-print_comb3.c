@@ -14,7 +14,7 @@ int main(void)
 	{
 		for (y = '0'; y <= '9'; y++)
 		{
-			if ('x' == 'y' && 'y' == 'x')
+			if ('x' == '9' && 'y' == '9')
 			{
 				continue;
 			}
