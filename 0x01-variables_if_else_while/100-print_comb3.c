@@ -17,10 +17,10 @@ int main(void)
 			putchar(x);
 			putchar(y);
 		}
-			if (x != 'y')
+			if ('x' == 'y')
 			{
-				putchar(x);
-				putchar(y);
+				putchar(',');
+				putchar(' ');
 			}
 			else 
 			{
