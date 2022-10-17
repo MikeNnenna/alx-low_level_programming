@@ -14,18 +14,18 @@ int main(void)
 	{
 		for (y = '0'; y <= '9'; y++)
 		{
-			putchar(x);
-			putchar(y);
-		}
 			if ('x' == 'y')
-			{
-				putchar(',');
-				putchar(' ');
-			}
-			else 
 			{
 				continue;
 			}
+			else 
+			{
+				putchar(x);
+				putchar(y);
+			}
+			putchar(',');
+			putchar(' ');
+		}
 	}
 	putchar('\n');
 	return(0);
