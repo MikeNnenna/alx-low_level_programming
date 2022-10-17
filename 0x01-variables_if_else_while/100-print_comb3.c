@@ -17,7 +17,7 @@ int main(void)
 			if (x != 'y')
 			{
 				putchar('x');
-				putchar('y ');
+				putchar('y');
 			}
 			else 
 			{
