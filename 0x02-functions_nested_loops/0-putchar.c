@@ -1,15 +1,10 @@
-#include <stdio.h>
-#include <time.h>
-/**
- * main - entry point
+#include <unistd.h>
+/** 
+ * _putchar - writes the character _putchar to stdout
  * Return: 0 if success
  */
-int main(void)
+int _putchar(char _putchar);
 {
-	int char;
-	{
-		putchar(_putchar);
-	}
-	putchar('\n');
-	return (0)
+
+	return (writes (1, &_putchar, 1))
 }
