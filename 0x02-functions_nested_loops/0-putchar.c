@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <time.h>
+/**
+ * main - entry point
+ * Return: 0 if success
+ */
+int main(void)
+{
+	int char;
+	{
+		putchar(_putchar);
+	}
+	putchar('\n');
+	return (0)
+}
