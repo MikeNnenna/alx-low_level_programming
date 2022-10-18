@@ -5,6 +5,5 @@
  */
 int _putchar(char _putchar)
 {
-
-	return (writes (1, &_putchar, 1))
+	return (write(1, &_putchar, 1));
 }
