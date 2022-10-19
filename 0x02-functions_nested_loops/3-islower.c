@@ -21,10 +21,11 @@ int _islower(int c)
 			x = 1;
 		}
 		return (x);
-	}
-	else
+		
+		else
 	{
 		return (0);
 	}
 
+}
 }
