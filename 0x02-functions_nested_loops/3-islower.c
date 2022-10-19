@@ -7,8 +7,8 @@
  */
 
 int _islower(int c)
-	c = 0;
 {
+	(void)c;
 	int x;
 	x = 1;
 	
