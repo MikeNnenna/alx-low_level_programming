@@ -10,7 +10,7 @@ int _islower(int c)
 {
 	int x;
 	
-	x = 1;
+	x = 0;
 	
 	(void)c;
 
