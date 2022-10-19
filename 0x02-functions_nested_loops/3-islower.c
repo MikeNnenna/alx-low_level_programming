@@ -3,12 +3,11 @@
  * _islower(int c)
  * @c: determining variable
  * main - uses inbuilt function
- * Return: 0 || 1 (successful)
+ * Return: 1 if successful or 0 if otherwise
  */
 
 int _islower(int c)
 {
-	(void)c;
 
 		if ('c' >= 'a' && 'c' <= 'z')
 		{
