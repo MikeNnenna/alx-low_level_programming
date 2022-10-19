@@ -10,8 +10,12 @@
 int _islower(int c)
 {
 	int x;
+
+	int y;
 	
 	x = 1;
+
+	y = 0
 	
 	(void)c;
 
@@ -23,7 +27,7 @@ int _islower(int c)
 		
 		else
 	{
-		return (0);
+		return (y);
 	}
 	}
 }
