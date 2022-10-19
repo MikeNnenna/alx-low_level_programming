@@ -2,8 +2,9 @@
 /**
  * _islower(int c)
  * @c: determining variable
- * Return: 1 if successful
  * main - uses inbuilt function
+ * Return: 1 if successful
+ * on error, 0 is returned, and errno is set appropriately
  */
 
 int _islower(int c)
