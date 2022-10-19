@@ -6,7 +6,7 @@
  * main - uses inbuilt function
  */
 
-int _islower(int c)
+int _islower(c)
 {
 	int x;
 	x = 1;
