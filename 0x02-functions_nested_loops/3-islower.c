@@ -7,6 +7,7 @@
  */
 
 int _islower(int c)
+	c = 0;
 {
 	int x;
 	x = 1;
