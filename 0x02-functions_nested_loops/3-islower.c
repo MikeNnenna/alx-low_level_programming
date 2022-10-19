@@ -10,10 +10,10 @@
 int _islower(int c)
 {
 	int x;
-	
-	x = 1;
 
 	int y;
+
+	x = 1;
 
 	y = 0;
 	
