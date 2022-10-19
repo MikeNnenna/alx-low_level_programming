@@ -10,12 +10,12 @@
 int _islower(int c)
 {
 	int x;
-
-	int y;
 	
 	x = 1;
 
-	y = 0
+	int y;
+
+	y = 0;
 	
 	(void)c;
 
