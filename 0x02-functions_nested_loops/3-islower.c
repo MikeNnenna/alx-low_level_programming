@@ -3,8 +3,7 @@
  * _islower(int c)
  * @c: determining variable
  * main - uses inbuilt function
- * Return: 1 if successful
- * on error, 0 is returned, and errno is set appropriately
+ * Return: 0 || 1 (successful)
  */
 
 int _islower(int c)
