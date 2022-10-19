@@ -8,12 +8,12 @@
 
 int _islower(int c)
 {
-	(void)c;
-
 	int x;
 	
 	x = 1;
 	
+	(void)c;
+
 	{
 		if ('c' >= 'a' && 'c' <= 'z')
 		{
