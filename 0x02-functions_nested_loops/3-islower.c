@@ -11,21 +11,19 @@ int _islower(int c)
 {
 	int x;
 	
-	x = 0;
+	x = 1;
 	
 	(void)c;
 
 	{
 		if ('c' >= 'a' && 'c' <= 'z')
 		{
-			x = 1;
+			return (x);
 		}
-		return (x);
 		
 		else
 	{
 		return (0);
 	}
-
-}
+	}
 }
