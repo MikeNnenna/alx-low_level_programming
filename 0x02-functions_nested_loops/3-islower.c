@@ -7,26 +7,18 @@
  */
 
 int _islower(int c)
-{
-	int x;
-
-	int y;
-
-	x = 1;
-
-	y = 0;
-	
+{	
 	(void)c;
 
 	{
 		if ('c' >= 'a' && 'c' <= 'z')
 		{
-			return (x);
+			return (1);
 		}
 		
 		else
 	{
-		return (y);
+		return (0);
 	}
 	}
 }
