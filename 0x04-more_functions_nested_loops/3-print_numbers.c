@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - print numbers
- * Return: 0 always
+ * Return: always 0
  */
 
 void print_numbers(void)
@@ -21,4 +21,6 @@ void print_numbers(void)
 	}
 
 	_putchar ('\n');
+
+	return (0);
 }
