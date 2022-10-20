@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * _isdigit - checks for digits
- * @c: prints int
+ * _isdigit - if it is a digit
+ * @c: print int
  * Return: 0 || 1 if successful
  */
 
-int _isdigit(int c);
+int _isdigit(int c)
 {
 	if (c >= 0 && c <= 9)
 	{
