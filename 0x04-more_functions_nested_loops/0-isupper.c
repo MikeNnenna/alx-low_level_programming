@@ -8,8 +8,6 @@
 
 int _isupper(int c)
 {
-	int (char);
-
 	for (x = 'A', x <= 'Z', x++)
 	{
 		if (x = 'C')
