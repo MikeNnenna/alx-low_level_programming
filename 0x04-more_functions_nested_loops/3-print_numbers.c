@@ -2,7 +2,7 @@
 
 /**
  * print_numbers - prints numbers
- * main - entry point 
+ * main - entry point
  * Return: 0 always
  */
 
@@ -13,9 +13,11 @@ void print_numbers(void)
 	x = 0
 	while (x <= 9)
 	{
-		_putchar(x);
+		_putchar(x + '0');
+
 		x++
 	}
+
 	_putchar('\n');
 	return (0);
 }
