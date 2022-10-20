@@ -12,7 +12,7 @@ int _isupper(int c)
 	{
 		if (x = C)
 		{
-			printf(x\n);
+			_putchar(x);
 		return (1);
 		}
 		else 
