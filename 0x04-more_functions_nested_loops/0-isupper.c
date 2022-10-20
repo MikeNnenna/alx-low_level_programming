@@ -10,11 +10,11 @@ int _isupper(int c);
 {
 	int (char);
 
-	for (x = A, x <= Z, x++)
+	for (x = 'A', x <= 'Z', x++)
 	{
-		if (x = C)
+		if (x = 'C')
 		{
-			printf("x");
+			printf(x\n);
 		return (1);
 		}
 		else 
