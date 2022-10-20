@@ -8,9 +8,9 @@
 
 int _isupper(int c)
 {
-	for (x = 'A', x <= 'Z', x++)
+	for (x = A, x <= Z, x++)
 	{
-		if (x = 'C')
+		if (x = C)
 		{
 			printf("x\n");
 		return (1);
