@@ -4,6 +4,7 @@
  * _isupper - checks for uppercase
  * main - entry point
  * Return: 1 if successful || 0 if otherwise
+ * @c: print int
  */
 
 int _isupper(int c)
