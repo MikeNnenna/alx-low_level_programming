@@ -2,7 +2,7 @@
 
 /**
  * mul - multiplies numbers
- * @ a: integer
+ * @a: integer
  * @b: integer
  * Return: always 0
  */
