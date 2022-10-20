@@ -14,7 +14,7 @@ int _isupper(int c);
 	{
 		if (x = C)
 		{
-			printf(x);
+			printf("x");
 		return (1);
 		}
 		else 
