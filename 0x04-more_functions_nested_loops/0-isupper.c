@@ -8,6 +8,8 @@
 
 int _isupper(int c)
 {
+	(void)c;
+
 	if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
