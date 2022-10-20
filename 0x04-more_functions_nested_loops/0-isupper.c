@@ -8,10 +8,9 @@
 
 int _isupper(int c)
 {
-	for (x = A, x <= Z, x++)
+	for (x = 'A', x <= 'Z', x++)
 	{
-		if (x = C)
-		{
+		if (x = 'C')
 			_putchar(x);
 		return (1);
 		}
